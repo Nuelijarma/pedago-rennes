@@ -2,7 +2,8 @@ Cette activité est basée sur une idée original de Dominique Barbe. Elle est d
 
 But : découvrir la classification et ses enjeux !
 
-Matériel : des images d'animaux (libres de droits).
+# Matériel
+Des images d'animaux (libres de droits), imprimées en recto. Il ne faut pas que l'on puisse voir, par transparence, l'animal sur le verso. On cherchera des animaux "simples" (cheval, chat, chien, mouette, canard, aigle, saumon, baleine, dauphin, poisson rouge, etc, bref, principalement ce que l'on va trouver dans des livres pour enfants). Pour l'exercice 3, on cherchera des animaux "compliqués" (bernard l'ermite, poule, poisson volant, paon, chauve-souris, mille-pates, crabe, écureuil volant, SERPENT, ornythorinque, loutre, tortue, poulpe), voir même des animaux imaginaires (dragon, pégase, humain).
 
 # Exercice 1 : "feature extraction"
 
